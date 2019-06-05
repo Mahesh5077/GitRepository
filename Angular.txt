@@ -3,3 +3,6 @@ welcome to Angular
 BootStrap
 HTML
 CSS
+
+
+JAVA SCRIPT
